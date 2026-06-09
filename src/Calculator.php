@@ -24,7 +24,6 @@ class Calculator
 
     { 
 
-        return $a; 
 
     } 
 
