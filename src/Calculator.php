@@ -24,7 +24,7 @@ class Calculator
 
     { 
 
-        return $a - $b; 
+        return $a + $b; 
 
     } 
 
